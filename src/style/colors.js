@@ -1,0 +1,18 @@
+const colors = {
+  PRIMARY: "#227EFF",
+  PRIMARYDARK: "#003277",
+  WHITE: '#ffffff',
+  ORANGE: '#EE6F44',
+  PURPLE: '#7E42F5',
+  GREEN: '#05944F',
+  DANGER: '#E25959',
+  YELLOE: '#FFCA42',
+  NEUTRAL: '#EDF2F7',
+  DARKGRAY: '#071827',
+  SEMIDARKGRAY: '#212C3D',
+  MEDIUMGRAY: '#627483',
+  LIGHTGRAY: '#718596',
+  BACKGROUND: '#E5E5E5',
+};
+
+export default colors;
